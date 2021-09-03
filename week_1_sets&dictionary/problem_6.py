@@ -1,0 +1,10 @@
+a = {1,2,3,4,5,6,7,8,8,9,9,9,9}
+print(a)
+a.add("batya")
+print(a)
+a.remove(4)
+print(a)
+a.discard(120312)
+print(a)
+a.pop()
+print(a)

@@ -1,0 +1,13 @@
+suitcase = []
+suitcase.append("clothes")
+print(suitcase)
+suitcase.append("knife")
+print(suitcase)
+suitcase.append("iphone12ProMax")
+print(suitcase)
+suitcase.append("drinks")
+print(suitcase)
+suitcase.append("foods")
+print(suitcase)
+suitcase.pop(-1)
+print(suitcase)

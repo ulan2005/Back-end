@@ -1,0 +1,10 @@
+a = ['Los_Angel']
+print(a)
+a.replace('osh' , 'jamily')
+a.pop(0)
+print(a)
+a.append('New_York')
+print(a)
+a.replace('jamily' , 'batken')
+a.pop(1)
+print(a)

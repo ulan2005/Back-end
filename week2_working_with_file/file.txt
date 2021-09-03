@@ -1,0 +1,1 @@
+.  ..  .bashrc  .cache  .config  .dbus  .face  .face.icon  .local  .profile  .zshrc
