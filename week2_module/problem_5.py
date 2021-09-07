@@ -1,0 +1,11 @@
+import subprocess
+subprocess.call("rm -rf i_am_a_python", shell=True)
+subprocess.call("mkdir i_am_a_python", shell=True)
+subprocess.call("ls", shell=True)
+subprocess.call("cd /i_am_a_python", shell=True)
+subprocess.call("mkdir 1", shell=True)
+subprocess.call("mkdir 2", shell=True)
+subprocess.call("mkdir 3", shell=True)
+subprocess.call("mkdir 4", shell=True)
+subprocess.call("mkdir 5", shell=True)
+subprocess.call("ls", shell=True)
